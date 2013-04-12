@@ -2,12 +2,12 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
-	<classpathentry kind="lib" path="lib/derby.jar"/>
-	<classpathentry kind="lib" path="lib/jlfgr-1_0.jar"/>
-	<classpathentry kind="lib" path="lib/jdom.jar"/>
-	<classpathentry kind="lib" path="lib/junit.jar"/>
-	<classpathentry kind="lib" path="lib/ktn_package.jar"/>
-	<classpathentry kind="lib" path="lib/ojdbc14.jar"/>
-	<classpathentry kind="lib" path="lib/xom-1.0b5.jar"/>
+	<classpathentry kind="lib" path="libs/derby.jar"/>
+	<classpathentry kind="lib" path="libs/jdom.jar"/>
+	<classpathentry kind="lib" path="libs/jlfgr-1_0.jar"/>
+	<classpathentry kind="lib" path="libs/junit.jar"/>
+	<classpathentry kind="lib" path="libs/ktn_package.jar"/>
+	<classpathentry kind="lib" path="libs/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="libs/xom-1.0b5.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
